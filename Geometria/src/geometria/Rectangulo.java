@@ -6,8 +6,11 @@
 package geometria;
 
 /**
- *
+ * Clase la cual es usada para calcular la base y la altura de un rectangulo
+ * 
  * @author javier
+ * @version 2.0
+ * @since 30/11/2021
  */
 public class Rectangulo implements FiguraGeometrica
 {

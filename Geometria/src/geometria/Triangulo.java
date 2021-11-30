@@ -12,10 +12,17 @@ package geometria;
 public class Triangulo implements FiguraGeometrica
 {
     private double base;
+    /*Atributo de tipo double que contiene la base del triangulo*/
     private double altura;
+    /*Atributo de tipo double que contiene la altura del triangulo*/    
     private double areaTriangulo;
+    /*Atributo de tipo double que contiene el area del triangulo*/
     
-
+    /**
+    *   Constructor de la clase que recibe base y la altura
+    *   @param base Base del triangulo
+    *   @param altura La altura del triangulo
+    */
     public Triangulo(double base, double altura) 
     {
         this.base = base;
@@ -26,17 +33,19 @@ public class Triangulo implements FiguraGeometrica
     {
         return base;
     }
-
+    
+    
     public void setBase(double base)
     {
         this.base = base;
     }
-
+    
     public double getAltura() 
     {
         return altura;
     }
-
+    
+    
     public void setAltura(double altura) 
     {
         this.altura = altura;
