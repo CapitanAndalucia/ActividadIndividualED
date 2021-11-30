@@ -6,8 +6,10 @@
 package geometria;
 
 /**
- *
+ *En esta clase se calculara el area del cuadrado
  * @author javier
+ * @version 2.0
+ * @since 30/11/2020
  */
 public class Cuadrado implements FiguraGeometrica
 {
