@@ -28,7 +28,7 @@ public class Cuadrado implements FiguraGeometrica
     
     /**
      * Metodo consultor que devuelve el lado del cuadrado
-     * @return Lado del cuadrado
+     * @return Devuelve Lado del cuadrado
      */
     public double getLado() 
     {
@@ -46,7 +46,7 @@ public class Cuadrado implements FiguraGeometrica
     
     /**
      * Metodo consultor que devuelve el area del cuadrado
-     * @return Area del cuadrado
+     * @return Devuelve area del cuadrado
      */
     public double getareaCuadrado() 
     {
