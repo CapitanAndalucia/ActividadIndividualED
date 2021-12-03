@@ -14,18 +14,22 @@ El trabajo ha estado dividido en diferentes factores los cuales se distribuyen p
 Antes de realizar los ejercicos hemos tenido que clonar la actividad desde el repositorio del profesor a una carpeta en nuestro equip. Tras esto creamos un repositorio remoto en github y enlazamos el repositorio clonado en nuestra carpeta local al nuestro repositorio remoto 
 
 
+
 ### Programas usados
-Se han usado Eclipse
+Se han usado:
+
+ Eclipse
+
 Visual Studio Code
 
+### Realización de actividades
+La activiad en general ha consistido en utilizar las herramientas que nos proporciona GitHub para subir diferentes repositorios, utilizar ramas, cear tags, visualizar los commits realizados
+### Documentación
+Se ha realizado una documentacion de los diferentes elementos de java que recogen la informacion de cada uno de ellos y sus funcionalidades
 
-### Documentacion
-Se ha realizado una documentacion de diferentes elementos de java que recogen la informacion de cada uno de ellos
 
-
-[![Website naereen.github.io](https://img.shields.io/DocumentacionJava-si-down-green-red/https/naereen.github.io.svg)]()
-
-Podemos apreciar que se encuentra en diferentes casos
+### Ampliación
+POr ultimo, la actividad ha propuesto una ampliación que consistia en utilizar las herramientas de github en el IDE de Eclipse y presentarlo mediante un PowerPoint. El PowerPoint que esté mejor hecho sera presentado al año siguiente para los alumnos de Primero
 =======
 
 # ActividadIndividualED
